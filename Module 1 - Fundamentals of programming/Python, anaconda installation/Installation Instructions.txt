@@ -1,4 +1,4 @@
-﻿Installing Python 2.7
+﻿Installing Python 3.6
 
 
  
